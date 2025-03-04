@@ -20,7 +20,6 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE and OUTPUT:
-
 ![Screenshot 2025-03-04 104352](https://github.com/user-attachments/assets/b26d26fc-b80d-4386-9ef0-a0fedee4552c)
 ![Screenshot 2025-03-04 105136](https://github.com/user-attachments/assets/bfcaa15f-f215-4034-8127-9c1afc4d5e94)
 ![image](https://github.com/user-attachments/assets/0c6bd9f2-e343-4aaa-bcde-89a26331eac1)
